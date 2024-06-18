@@ -1,0 +1,110 @@
+{
+  "results": {
+    "xukun": [
+      {
+        "timestamp": [41.60746765136719, 59.05967712402344],
+        "raw_box": [41.60746765136719, 59.05967712402344],
+        "proposal_score": 0.43243399262428284,
+        "sentence": "he is talking to the camera.",
+        "sentence_score": -5.784080505371094,
+        "query_id": 6,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [0.0, 14.461227416992188],
+        "raw_box": [0.0, 14.461227416992188],
+        "proposal_score": 0.41606855392456055,
+        "sentence": "a man is seen speaking to the camera and leads into him speaking to the camera.",
+        "sentence_score": -7.144939422607422,
+        "query_id": 3,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [14.393719673156738, 43.177127838134766],
+        "raw_box": [14.393719673156738, 43.177127838134766],
+        "proposal_score": 0.3881966471672058,
+        "sentence": "he is doing a break moves.",
+        "sentence_score": -11.579835891723633,
+        "query_id": 9,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [0.26622244715690613, 29.087718963623047],
+        "raw_box": [0.26622244715690613, 29.087718963623047],
+        "proposal_score": 0.3347543478012085,
+        "sentence": "a man is seen speaking to the camera and leads into a man speaking to the camera.",
+        "sentence_score": -7.5022735595703125,
+        "query_id": 0,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [0.001098993350751698, 5.993364334106445],
+        "raw_box": [0.001098993350751698, 5.993364334106445],
+        "proposal_score": 0.3269743025302887,
+        "sentence": "a man is talking to the camera.",
+        "sentence_score": -4.0826826095581055,
+        "query_id": 4,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [23.11501693725586, 59.119998931884766],
+        "raw_box": [23.11501693725586, 59.119998931884766],
+        "proposal_score": 0.3102767765522003,
+        "sentence": "he is doing a break dance.",
+        "sentence_score": -11.355387687683105,
+        "query_id": 2,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [1.444723129272461, 57.81861114501953],
+        "raw_box": [1.444723129272461, 57.81861114501953],
+        "proposal_score": 0.30237624049186707,
+        "sentence": "a man is standing in a room talking.",
+        "sentence_score": -7.242521286010742,
+        "query_id": 1,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [33.138614654541016, 42.921363830566406],
+        "raw_box": [33.138614654541016, 42.921363830566406],
+        "proposal_score": 0.26572340726852417,
+        "sentence": "he does a break dance.",
+        "sentence_score": -7.753582954406738,
+        "query_id": 7,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [52.5733528137207, 59.10221481323242],
+        "raw_box": [52.5733528137207, 59.10221481323242],
+        "proposal_score": 0.25315147638320923,
+        "sentence": "he stops and talks to the camera.",
+        "sentence_score": -6.755726337432861,
+        "query_id": 8,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      },
+      {
+        "timestamp": [9.977022171020508, 21.564769744873047],
+        "raw_box": [9.977022171020508, 21.564769744873047],
+        "proposal_score": 0.23905140161514282,
+        "sentence": "he is playing a basketball.",
+        "sentence_score": -6.537746906280518,
+        "query_id": 5,
+        "vid_duration": 59.119998931884766,
+        "pred_event_count": 3
+      }
+    ]
+  },
+  "version": "VERSION 1.0",
+  "external_data": { "used:": true, "details": null },
+  "valid_video_num": 1,
+  "avg_proposal_num": 10.0
+}
